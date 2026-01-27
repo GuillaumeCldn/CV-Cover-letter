@@ -2,44 +2,35 @@
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry, cv-entry-start, cv-entry-continued
 
 
-#cv-section("Expérience Professionnelle")
+#cv-section("Expérience professionnelle")
 
-#cv-entry-start(
-  society: [XYZ Corporation],
-  logo: image("../assets/logos/xyz_corp.png"),
-  location: [San Francisco, CA],
-)
-
-#cv-entry-continued(
-  title: [Directeur de la Science des Données],
-  date: [2020 - Présent],
-  description: list(
-    [Diriger une équipe de scientifiques et d'analystes de données pour développer et mettre en œuvre des stratégies axées sur les données, développer des modèles prédictifs et des algorithmes pour soutenir la prise de décisions dans toute l'organisation],
-    [Collaborer avec la direction pour identifier les opportunités d'affaires et stimuler la croissance, mettre en œuvre les meilleures pratiques en matière de gouvernance, de qualité et de sécurité des données],
-  ),
-  tags: ("Dataiku", "Snowflake", "SparkSQL"),
-)
 
 #cv-entry(
-  title: [Analyste de Données],
-  society: [ABC Company],
-  date: [2017 - 2020],
-  location: [New York, NY],
-  logo: image("../assets/logos/abc_company.png"),
+  title: [Organisation | Chargé avions militaires],
+  society: [Airexpo],
+  date: [octobre 2023 - octobre 2024],
+  logo: image("../assets/logos/logo_Airexpo.png"),
+  location: [Toulouse, France],
   description: list(
-    [Analyser de grands ensembles de données avec SQL et Python, collaborer avec les équipes pour découvrir des insights commerciaux],
-    [Créer des visualisations de données et des tableaux de bord dans Tableau, développer et maintenir des pipelines de données avec AWS],
+    [Airexpo est le 3e plus grand meeting français et seul au monde
+organisé par des étudiants.],
+    [En tant que membre de la commission Avions de l’équipe organisant la 38e édition, j'étais en charge des relations avec six équipages militaires dont la Patrouille de France (19 avions au total)],
+    [Cette expérience menée sur ma première année m’a permis de
+développer des compétences en organisation, négociation et travail
+d’équipe (dans une structure de 49 élèves).],
   ),
 )
 
 #cv-entry(
-  title: [Stagiaire en Analyse de Données],
-  society: [PQR Corporation],
-  date: list(
-    [été 2017],
-    [été 2016],
+  title: [Stage découverte de l’entreprise],
+  society: [Axima Concept],
+  date: [août 2024],
+  location: [Crolles, France (38)],
+  logo: image("../assets/logos/logo_Axima.png"),
+  description: list(
+    [AXIMA Concept - filiale du groupe Bouygues - est prestataire pour l'usine STMicroelectronics de Crolles.], 
+    [Mon stage consistait à aider à l'équipement des salles blanches en tuyauterie spécialisée pour fluides thermiques, solvants et gaz.],
+    [Ce stage sur le site de l’usine STMicroelectronics de Crolles (leader européen de la production de circuits intégrés) m’a fait découvrir l’industrie de pointe. J’ai appris à travailler en respectant des exigences strictes de sécurité et de précision.],
   ),
-  location: [Chicago, IL],
-  logo: image("../assets/logos/pqr_corp.png"),
-  description: list([Aider à la préparation, au traitement et à l'analyse de données à l'aide de Python et Excel, participer aux réunions d'équipe et contribuer à la planification et à l'exécution de projets]),
 )
+

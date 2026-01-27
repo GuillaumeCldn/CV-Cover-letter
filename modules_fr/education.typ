@@ -11,10 +11,11 @@
   location: [Toulouse, France],
   logo: image("../assets/logos/logo_enac.png"),
   description: list(
-    [En deuxième année à l'ENAC j'ai choisi la majeure ],
+    // FIX: Finir cette section
+    [En deuxième année à l'ENAC j'ai choisi la majeure Avionique (AVI) qui ],
     [Cours : Automatique #h-bar() Systèmes embarqués #h-bar() Programmation embarquée #h-bar() Conception UAS #h-bar() Réglementation ],
   ),
-)
+) 
 
 #cv-entry(
   title: [Classes Préparatoires aux Grandes Ecoles],
@@ -23,7 +24,6 @@
   location: [Paris, France],
   logo: image("../assets/logos/logo_JS.png"),
   description: list(
-    [Thèse : Exploration de l'utilisation des algorithmes d'apprentissage automatique pour la prédiction des prix des actions : une étude comparative des modèles de régression et de séries chronologiques],
-    [Cours : Systèmes de base de données #h-bar() Réseaux informatiques #h-bar() Génie logiciel #h-bar() Intelligence artificielle],
+    [Classes: PCSI #h-bar()  PSI\*],
   ),
 )

@@ -5,23 +5,23 @@
 #cv-section("Formation")
 
 #cv-entry(
-  title: [Master en Science des Données],
-  society: [Université de Californie à Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [Cycle Ingénieur ENAC],
+  society: [Ecole Nationale de l'Aviation Civile],
+  date: [2023 - 2027],
+  location: [Toulouse, France],
+  logo: image("../assets/logos/logo_enac.png"),
   description: list(
-    [Thèse : Prédiction du taux de désabonnement des clients dans l'industrie des télécommunications en utilisant des algorithmes d'apprentissage automatique et l'analyse de réseau],
-    [Cours : Systèmes et technologies Big Data #h-bar() Exploration et exploitation de données #h-bar() Traitement du langage naturel],
+    [En deuxième année à l'ENAC j'ai choisi la majeure ],
+    [Cours : Automatique #h-bar() Systèmes embarqués #h-bar() Programmation embarquée #h-bar() Conception UAS #h-bar() Réglementation ],
   ),
 )
 
 #cv-entry(
-  title: [Bachelors en Informatique],
-  society: [Université de Californie à Los Angeles],
-  date: [2014 - 2018],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [Classes Préparatoires aux Grandes Ecoles],
+  society: [Lycée Janson de Sailly],
+  date: [2021 - 2023],
+  location: [Paris, France],
+  logo: image("../assets/logos/logo_JS.png"),
   description: list(
     [Thèse : Exploration de l'utilisation des algorithmes d'apprentissage automatique pour la prédiction des prix des actions : une étude comparative des modèles de régression et de séries chronologiques],
     [Cours : Systèmes de base de données #h-bar() Réseaux informatiques #h-bar() Génie logiciel #h-bar() Intelligence artificielle],

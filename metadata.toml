@@ -7,7 +7,7 @@ language = "fr"
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
     # You can also use a custom color by hex code i.e. "#1E90FF"
-    awesome_color = "skyblue"
+    awesome_color = "darknight"
 
     # Skips are for controlling the spacing between sections and entries
     before_section_skip = "1pt"
@@ -88,16 +88,16 @@ language = "fr"
 # i.e. [[lang.ru]]
 # each section must contains the following fields
 [lang.de]
-    header_quote = "Als Ingenieurstudent im zweiten Jahr an der Ecole Nationale de l'Aviation Civile (ENAC) suche ich ein 14-wöchiges Praktikum ab Juni 2026."
+    header_quote = "Als Ingenieurstudent an der Ecole Nationale de l'Aviation Civile (ENAC) suche ich ein 14-wöchiges Praktikum ab Juni 2026."
     cv_footer = "Lebenslauf"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Second-year engineering student at ENAC looking for a fourteen week long internship starting in June of 2026."
+    header_quote = "Engineering student at ENAC looking for a fourteen week long internship starting in June of 2026."
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Elève-ingénieur à l'Ecole Nationale de l'Aviation Civile (ENAC) en 2ème année, je suis à la recherche d'un stage de 14 semaines à partir de juin 2026."
+    header_quote = "Elève-ingénieur à l'Ecole Nationale de l'Aviation Civile (ENAC), je suis à la recherche d'un stage de 14 semaines à partir de juin 2026."
     cv_footer = "CV"
     letter_footer = "Lettre de motivation"

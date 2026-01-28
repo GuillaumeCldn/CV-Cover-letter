@@ -11,8 +11,8 @@
   location: [ ],
   date: [en cours],
   description: list(
-    [Le PIR est l'oppportunité pour les étudiants à l'ENAC de comprendre comment est produit un travail de recherche et d'appliquer les compétences qu'ils ont acquises avec plus d'autonomie.],
-    [L'objectif de ce PIR est de trouver les paramètres qui permettent d'ajuster le comportement d'un essaim de drones dans différents scénarios comme le suivi de trajectoire ou l'évitement d'obstacles et d'intrus. Cette recherche se fait avec des algortihmes de programmation génétique.],
+    [Le PIR est l'opportunité pour les étudiants à l'ENAC de comprendre comment est produit un travail de recherche et d'appliquer les compétences qu'ils ont acquises avec plus d'autonomie.],
+    [L'objectif de ce PIR est de trouver les paramètres qui permettent d'ajuster le comportement d'un essaim de drones dans différents scénarios comme le suivi de trajectoire ou l'évitement d'obstacles et d'intrus. Cette recherche se fait avec des algorithmes de programmation génétique.],
   ),
 )
 #cv-entry(
@@ -22,7 +22,7 @@
   date: [décembre 2025 - janvier 2026],
   description: list(
     [Ce projet est la synthèse des cours d'automatique suivis au premier semestre de l'année.],
-    [Nous avons implémenté une loi de descente pour un avion de ligne, en mettant en œuvre différentes commandes: classqiue, modale, optimale.],
+    [Nous avons implémenté une loi de descente pour un avion de ligne, en mettant en œuvre différentes commandes: classique, modale et optimale.],
   ),
 )
 
@@ -43,6 +43,6 @@
   date: [octobre 2023 - janvier 2024],
   description: list(
     [Ce projet est le moyen pour les élèves de l'ENAC d'apprendre à appliquer leurs connaissances en programmation à des problèmes concrets.],
-    [Nous avons implémenté un méthode de _machine learning_: la prgrammation génétique pour trouver l'équation de courbes inconnues.],
+    [Nous avons implémenté une méthode de _machine learning_: la programmation génétique pour trouver l'équation de courbes inconnues.],
   ),
 )

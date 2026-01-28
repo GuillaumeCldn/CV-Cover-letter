@@ -11,8 +11,6 @@
   location: [Toulouse, France],
   logo: image("../assets/logos/logo_enac.png"),
   description: list(
-    // FIX: Finir cette section
-    // [En deuxième année à l'ENAC j'ai choisi la majeure Avionique (AVI) qui ],
     [Cours : Automatique #h-bar() Systèmes embarqués #h-bar() Programmation embarquée #h-bar() Conception UAS #h-bar() Réglementation ],
   ),
 ) 
@@ -24,6 +22,6 @@
   location: [Paris, France],
   logo: image("../assets/logos/logo_JS.png"),
   description: list(
-    [Classes: PCSI #h-bar()  PSI\*],
+    [Classes: PCSI #h-bar()  PSI],
   ),
 )

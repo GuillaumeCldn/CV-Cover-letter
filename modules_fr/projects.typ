@@ -21,7 +21,7 @@
   date: [décembre 2025 - janvier 2026],
   description: list(
     [Ce projet est la synthèse des cours d'automatique suivis au premier semestre de l'année.],
-    [L'objectif du projet est d'implémenter une loi de descente pour un avion de ligne, en mettant en œuvre différentes commandes: classqiue, modale, optimale.],
+    [Nous avons implémenté une loi de descente pour un avion de ligne, en mettant en œuvre différentes commandes: classqiue, modale, optimale.],
   ),
 )
 
@@ -31,8 +31,8 @@
   location: [ ],
   date: [octobre - décembre 2025],
   description: list(
-    [],
-    [],
+    [Ce projet est un cas d'étude pour l'application des réglementations européennes à une opération de drones.],
+    [Nous avons réalisé l'étude réglementaire d'une opération de surveillance maritime avec un drone à voilure fixe de 7 m d'envergure, en appliquant notamment la SORA 2.5.],
   ),
 )
 #cv-entry(
@@ -41,7 +41,7 @@
   location: [ ],
   date: [octobre 2023 - janvier 2024],
   description: list(
-    [],
-    [],
+    [Ce projet est le moyen pour les élèves de l'ENAC d'apprendre à appliquer leurs connaissances en programmation à des problèmes concrets.],
+    [Nous avons implémenté un méthode de _machine learning_: la prgrammation génétique pour trouver l'équation de courbes inconnues.],
   ),
 )

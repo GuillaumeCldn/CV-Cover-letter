@@ -6,7 +6,7 @@
 
 #cv-skill(
   type: [Langues],
-  info: [Anglais #h-bar() Français #h-bar() Allemand],
+  info: [Anglais (Bilingue) #h-bar() Allemand (C1)],
 )
 
 #cv-skill(

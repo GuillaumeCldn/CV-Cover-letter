@@ -25,7 +25,7 @@
   location: [Crolles, France (38)],
   logo: image("../assets/logos/logo_Axima.png"),
   description: list(
-    [AXIMA Concept - filiale du groupe Bouygues - est prestataire pour l'usine STMicroelectronics de Crolles.], 
+    [AXIMA Concept - filiale du groupe Bouygues - est prestataire pour l'usine STMicroelectronics de Crolles en Isère.], 
     [Mon stage consistait à aider à l'équipement des salles blanches en tuyauterie spécialisée pour fluides thermiques, solvants et gaz.],
     [Ce stage sur le site de l’usine STMicroelectronics de Crolles (leader européen de la production de circuits intégrés) m’a fait découvrir l’industrie de pointe. J’ai appris à travailler en respectant des exigences strictes de sécurité et de précision.],
   ),

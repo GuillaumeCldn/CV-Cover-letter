@@ -17,7 +17,7 @@
 )
 #cv-entry(
   title: [ENAC - majeure AVI | #link("https://github.com/GuillaumeCldn/Projet-CAdV")[#fa-github-square()]],
-  society: [Projet Commmande Automatique du Vol],
+  society: [Projet de commmande automatique du vol],
   location: [ ],
   date: [décembre 2025 - janvier 2026],
   description: list(

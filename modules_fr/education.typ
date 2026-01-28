@@ -24,6 +24,6 @@
   location: [Paris, France],
   logo: image("../assets/logos/logo_JS.png"),
   description: list(
-    [Classes: PCSI #h-bar()  PSI\*],
+   //  [Classes: PCSI #h-bar()  PSI\*],
   ),
 )

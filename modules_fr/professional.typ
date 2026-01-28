@@ -12,12 +12,9 @@
   logo: image("../assets/logos/logo_Airexpo.png"),
   location: [Toulouse, France],
   description: list(
-    [Airexpo est le 3e plus grand meeting français et seul au monde
-organisé par des étudiants.],
-    [En tant que membre de la commission Avions de l’équipe organisant la 38e édition, j'étais en charge des relations avec six équipages militaires dont la Patrouille de France (19 avions au total)],
-    [Cette expérience menée sur ma première année m’a permis de
-développer des compétences en organisation, négociation et travail
-d’équipe (dans une structure de 49 élèves).],
+    [Airexpo est le troisième plus grand meeting français et seul au monde organisé par des étudiants.],
+    [En tant que membre de la commission Avions de l’équipe organisant la 38ème édition, j'étais en charge des relations avec six équipages militaires dont la Patrouille de France (19 avions au total).],
+    [Cette expérience m’a permis de développer des compétences en organisation, négociation et travail d’équipe (dans une structure de 49 élèves).],
   ),
 )
 

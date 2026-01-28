@@ -6,15 +6,15 @@
 
 #cv-skill(
   type: [Langues],
-  info: [Anglais #h-bar() Français #h-bar() Chinois],
+  info: [Anglais #h-bar() Français #h-bar() Allemand],
 )
 
 #cv-skill(
-  type: [Tech Stack],
-  info: [Tableau #h-bar() Python (Pandas/Numpy) #h-bar() PostgreSQL],
+  type: [Programmation],
+  info: [C #h-bar() Python #h-bar() MatLab/Simulink],
 )
 
 #cv-skill(
   type: [Centres d'intérêt],
-  info: [Natation #h-bar() Cuisine #h-bar() Lecture],
+  info: [Escalade #h-bar() Alpinisme #h-bar() Lecture],
 )

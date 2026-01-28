@@ -6,7 +6,7 @@
 #cv-section("Projets")
 
 #cv-entry(
-  title: [ENAC],
+  title: [ENAC - PIR Drones],
   society: [Projet d'Initiation à la Recherche (PIR)],
   location: [ ],
   date: [en cours],

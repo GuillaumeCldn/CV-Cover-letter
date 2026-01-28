@@ -1,5 +1,6 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry
+#import "@preview/fontawesome:0.6.0": *
 
 
 #cv-section("Projets")
@@ -15,7 +16,7 @@
   ),
 )
 #cv-entry(
-  title: [ENAC - majeure AVI],
+  title: [ENAC - majeure AVI | #link("https://github.com/GuillaumeCldn/Projet-CAdV")[#fa-github-square()]],
   society: [Projet Commmande Automatique du Vol],
   location: [ ],
   date: [décembre 2025 - janvier 2026],
@@ -36,7 +37,7 @@
   ),
 )
 #cv-entry(
-  title: [ENAC - première année],
+  title: [ENAC - première année | #link("https://github.com/GuillaumeCldn/Genetic-Programming")[#fa-github-square()]],
   society: [Projet Python],
   location: [ ],
   date: [octobre 2023 - janvier 2024],

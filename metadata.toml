@@ -98,6 +98,6 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Elève-ingénieur à l'Ecole Nationale de l'Aviation Civile (ENAC), je suis à la recherche d'un stage de 14 semaines à partir de juin 2026."
+    header_quote = "Elève-ingénieur en deuxième année à l'Ecole Nationale de l'Aviation Civile (ENAC), je suis à la recherche d'un stage de 14 semaines à partir de juin 2026."
     cv_footer = "CV ENAC 2026"
     letter_footer = "Lettre de motivation"

@@ -1,45 +1,48 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry
+#import "@preview/fontawesome:0.6.0": *
 
 
-#cv-section("Projects & Associations")
+#cv-section("Projects")
 
 #cv-entry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
-  date: [2019 - Present],
-  location: [New York, NY],
+  title: [ENAC - PIR Drones],
+  society: [Research exposure project (PIR)],
+  location: [ ],
+  date: [ongoing],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies],
-    [Increased donation efficiency by 25% through predictive modeling],
+    [The research exposure project is an opportunity for ENAC students to understand how research work is done and to apply the skills they have acquired with greater autonomy.],
+    [The aim of this project is to find the parameters that allow the behaviour of a swarm of drones to be adjusted in different scenarios such as navigation or obstacle and intruder avoidance. This research is carried out using genetic programming algorithms.],
   ),
-  tags: ("Volunteer Work", "Non-profit", "Social Impact"),
+)
+#cv-entry(
+  title: [ENAC - Avionics major | #link("https://github.com/GuillaumeCldn/Projet-CAdV")[#fa-github-square()]],
+  society: [Automatic flight control project],
+  location: [ ],
+  date: [December 2025 - January 2026],
+  description: list(
+    [This project is the conclusion of the control theory courses taken in the first semester of the year.],
+    [We implemented a flight control law which manages the descent of an airliner, using different control paradigms: classical, modal and optimal.],
+  ),
 )
 
 #cv-entry(
-  title: [Open Source Contributor],
-  society: [Python Data Science Libraries],
-  date: [2018 - Present],
-  location: [Remote],
+  title: [ENAC - Drones minor],
+  society: [UAS regulation project],
+  location: [ ],
+  date: [October - December 2025],
   description: list(
-    [Contributed to pandas, scikit-learn, and matplotlib projects],
-    [Fixed bugs, improved documentation, and added new features],
-    [Mentored new contributors during Google Summer of Code],
+    [This project is a case study for the application of European regulations to drone operations.],
+    [We conducted a regulatory study of a maritime surveillance operation using a fixed-wing drone with a wingspan of 7 m, applying the SORA 2.5 method. ],
   ),
-  tags: ("Open Source", "Python", "Community"),
 )
-
 #cv-entry(
-  title: [Machine Learning Research Project],
-  society: [Personal Project],
-  date: [Summer 2020],
-  location: [Remote],
+  title: [ENAC - first year | #link("https://github.com/GuillaumeCldn/Genetic-Programming")[#fa-github-square()]],
+  society: [Python project],
+  location: [ ],
+  date: [October 2023 - January 2024],
   description: list(
-    [Developed a novel approach to time series forecasting using transformer architectures],
-    [Published research paper and open-sourced implementation on GitHub],
-    [Achieved 15% improvement over baseline models on benchmark datasets],
+    [This project is a way for ENAC students to learn how to apply their programming knowledge to real-world problems.],
+    [We implemented a genetic programming algorithm to find the equation of unknown curves.],
   ),
-  tags: ("Research", "Deep Learning", "Time Series"),
 )

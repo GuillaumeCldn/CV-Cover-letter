@@ -2,7 +2,7 @@
 
 # Set the output language
 # INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
-language = "fr"
+language = "en"
 
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
@@ -93,7 +93,7 @@ language = "fr"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Engineering student at ENAC looking for a fourteen week long internship starting in June of 2026."
+    header_quote = "Second-year engineering student at ENAC looking for a 14-week internship starting in June of 2026."
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
